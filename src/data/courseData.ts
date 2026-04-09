@@ -263,7 +263,7 @@ export const courseData = {
     }
   ],
   instructor: {
-    name: "احمد ذکی رفعت",
+    name: "ارسلان خان الکوزی",
     email: "ahmadzakirafaat@gmail.com",
     phone: "+93774040140",
     office: "Online Courses",
